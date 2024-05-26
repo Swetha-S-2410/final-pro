@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>Health Bot</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="keywords"
+    content="Medick Responsive web template, Bootstrap Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+  <title>HealthBOt</title>
+  <link href="//fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  
+    <script src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+</head>
+<div class="col-lg-7 w3l-content-right pl-lg-5 mt-lg-4"></div>
+<body>
+    <div class="header-w3l">
+       
+        
+                </ul>
+      
+        
+                    </label>
+                  </div>
+                </nav>
+              </div>
+             
+            </nav>
+          </div>
+        </header>
+      </div>
+       <center>
+                <h2 class="title-subhny mb-2">Health Bot</h2>
+              </center>   
+    <div id="webchat" role="main"></div>
+    <script>
+       
+        const webChatSecret = "dzuA2FepqJM.-GcYQy81lNzjIlRinPW8AipjxQB55V1Oxz5Y4i4Ckz8";
+
+        window.WebChat.renderWebChat(
+            {
+              
+                directLine: window.WebChat.createDirectLine({ token: webChatSecret }),
+                
+                userID: 'YOUR_USER_ID',
+                username: 'YOUR_USERNAME',
+                locale: 'en-US',
+                styleOptions: {
+                  bubbleBackground: '#000000',
+                bubbleFromUserBackground: '#000000',
+                bubbleTextColor: '#FFFFFF', 
+                bubbleFromUserTextColor:'#FFFFFF',
+                backgroundColor: '#FFFFFF', 
+                accent: '#000000' 
+                }
+            },
+            document.getElementById('webchat') 
+        );
+    </script>
+</body>
+</html>
