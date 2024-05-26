@@ -1,6 +1,6 @@
 **Blog Store for Healthy Cakes and Juice with Interactive AI Chatbot**
 
- 
+ Medick : Integrate
  
 
 
