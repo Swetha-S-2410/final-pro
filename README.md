@@ -48,10 +48,6 @@ Responsive Design: Ensure the website is mobile-friendly and works well on all d
 Dark and Light Mode: The blog store includes a dark and light mode toggle, allowing users to switch between themes for an optimal viewing experience.
 
 
-
-
-
-
-
-This is my final FRT project
-#azure link  https://ashy-flower-000edc010.5.azurestaticapps.net/
+Screenshots:
+HOME PAGE
+![Screenshot 2024-05-28 184842](https://github.com/Swetha-S-2410/final-pro/assets/157030575/41a59034-1fdc-48fc-a2b7-5cc80dd93cdd)
