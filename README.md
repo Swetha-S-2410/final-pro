@@ -61,6 +61,14 @@ HOME PAGE
 ABOUT
 ![Screenshot 2024-05-28 185205](https://github.com/Swetha-S-2410/final-pro/assets/157030575/df178d3b-ae28-4e25-9e12-93880a0fc303)
 ![Screenshot 2024-05-28 185244](https://github.com/Swetha-S-2410/final-pro/assets/157030575/efddadc3-84eb-4011-a77e-5c2ad1f3e1d6)
-![Screenshot 2024-05-28 185319](https://github.com/Swetha-S-2410/final-pro/assets/157030575/760c7f76-c7e0-40ec-b5c7-4ff078fe8daa)
+![Screenshot 2024-05-28 185304](https://github.com/Swetha-S-2410/final-pro/assets/157030575/6d007879-5eab-4ac8-9612-081740ec0056)
+
+CONTACT
+![Screenshot 2024-05-28 185338](https://github.com/Swetha-S-2410/final-pro/assets/157030575/736795d7-cd35-4996-870f-6e90f0d4a9c0)
+![Screenshot 2024-05-28 185357](https://github.com/Swetha-S-2410/final-pro/assets/157030575/fe50b2e1-5e5f-4574-992e-2ffba1f05594)
+![Screenshot 2024-05-28 185413](https://github.com/Swetha-S-2410/final-pro/assets/157030575/98f88255-d915-43c3-9879-593a798e573b)
+
+CHATBOT
+![Screenshot 2024-05-28 185612](https://github.com/Swetha-S-2410/final-pro/assets/157030575/02247604-a7b9-44db-9b65-c9e8e3f40a75)
 
 
