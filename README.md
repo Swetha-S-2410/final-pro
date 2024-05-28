@@ -71,4 +71,12 @@ CONTACT
 CHATBOT
 ![Screenshot 2024-05-28 185612](https://github.com/Swetha-S-2410/final-pro/assets/157030575/02247604-a7b9-44db-9b65-c9e8e3f40a75)
 
+AZURE PORTAL SCREENSHOTS:
 
+RESOURCES GROUP & RESOURCES :
+![Screenshot 2024-05-28 214954](https://github.com/Swetha-S-2410/final-pro/assets/157030575/9382665c-5300-4ab0-8312-73356467d82d)
+
+
+AZURE STATIC WEBAPP:(URL: https://ashy-flower-000edc010.5.azurestaticapps.net/ )
+
+![Screenshot 2024-05-28 192258](https://github.com/Swetha-S-2410/final-pro/assets/157030575/0ba2c712-0ee8-44ac-a6c1-e3ec1bf14f80)
