@@ -21,6 +21,32 @@ Azure AI Service:
 Azure Health Bot: Azure Health Bot is leveraged in our Healthy Cake and Juice Blog Store project to enhance user interaction and provide personalized assistance. This AI-powered bot offers a range of functionalities that improve the overall user experience by delivering timely and relevant information. 
 
 
+Home Page
+Hero Section: A visually appealing hero section with an attractive image of healthy cakes and juices, accompanied by a catchy tagline.
+Navigation Bar: Links to Home, About, Blog, Contact, and a search bar.
+Featured Products: Showcase a few featured cakes and juices with images and descriptions.
+Newsletter Signup: A section to collect email addresses for a newsletter.
+Footer: Include links to social media, contact information, and a brief about the blog store.
+
+About Page
+Our Story: A section describing the background of the blog store, mission, and values.
+Our Ingredients: Information about the healthy ingredients used in the cakes and juices.
+
+Contact Page
+Contact Form: A form to collect name, email, subject, and message from visitors.
+Contact Information: Address, phone number, and email address of the blog store.
+Map: An embedded Google Map showing the location of the store.
+Social Media Links: Links to social media profiles.
+
+
+Chatbot
+Live Chatbot Integration: A chatbot to assist visitors with common queries.
+Automated Responses: Pre-programmed responses for FAQs about products.
+
+Additional Functionalities
+Responsive Design: Ensure the website is mobile-friendly and works well on all devices.
+Dark and Light Mode: The blog store includes a dark and light mode toggle, allowing users to switch between themes for an optimal viewing experience.
+
 
 
 
