@@ -49,6 +49,7 @@ Dark and Light Mode: The blog store includes a dark and light mode toggle, allow
 
 
 Screenshots:
+
 HOME PAGE
 
 ![Screenshot 2024-05-28 184842](https://github.com/Swetha-S-2410/final-pro/assets/157030575/c6cb3ebd-de6c-4ed1-a5b2-728ec156baf1)
@@ -56,3 +57,10 @@ HOME PAGE
 ![Screenshot 2024-05-28 185016](https://github.com/Swetha-S-2410/final-pro/assets/157030575/3840c38c-8ba4-4212-888d-beae37cc4df5)
 ![Screenshot 2024-05-28 185034](https://github.com/Swetha-S-2410/final-pro/assets/157030575/81e4bd96-9948-4050-b863-428fc754a0cb)
 ![Screenshot 2024-05-28 185107](https://github.com/Swetha-S-2410/final-pro/assets/157030575/e29f4cd6-7099-4059-92f8-33651713d054)
+
+ABOUT
+![Screenshot 2024-05-28 185205](https://github.com/Swetha-S-2410/final-pro/assets/157030575/df178d3b-ae28-4e25-9e12-93880a0fc303)
+![Screenshot 2024-05-28 185244](https://github.com/Swetha-S-2410/final-pro/assets/157030575/efddadc3-84eb-4011-a77e-5c2ad1f3e1d6)
+![Screenshot 2024-05-28 185319](https://github.com/Swetha-S-2410/final-pro/assets/157030575/760c7f76-c7e0-40ec-b5c7-4ff078fe8daa)
+
+
