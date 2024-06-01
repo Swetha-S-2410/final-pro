@@ -8,7 +8,7 @@ This innovative Healthy Cake and Juice Blog Store platform is developed as part 
 
 Project Link -https://ashy-flower-000edc010.5.azurestaticapps.net/
 
-Project demo video link-
+## Project demo video link-
 
 Core Azure Services:
 
