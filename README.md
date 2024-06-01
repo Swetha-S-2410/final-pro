@@ -86,8 +86,8 @@ RESOURCES GROUP & RESOURCES :
 ![Screenshot 2024-05-28 192258](https://github.com/Swetha-S-2410/final-pro/assets/157030575/0ba2c712-0ee8-44ac-a6c1-e3ec1bf14f80)
 
 ### Tech Stack 💻
-. Azure Hosting, Storage, Health Bot Service
-. HTML
-. CSS
-. JavaScript
+* Azure Hosting, Storage, Health Bot Service
+* HTML
+* CSS
+* JavaScript
 
