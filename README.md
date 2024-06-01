@@ -6,9 +6,9 @@ This initiative aims to develop a comprehensive, engaging, and user-friendly web
 
 ####  This innovative Healthy Cake and Juice Blog Store platform is developed as part of the Future Ready Talent Internship program. This initiative is a collaborative effort between Microsoft, Future Skills Prime, Quess, GitHub, and EY, aimed at creating a comprehensive and user-friendly website dedicated to promoting healthy eating through a variety of delicious and nutritious cakes and juices. 
 
-#P roject Link -https://ashy-flower-000edc010.5.azurestaticapps.net/
+#### roject Link -https://ashy-flower-000edc010.5.azurestaticapps.net/
 
-# Project demo video link-
+#### Project demo video link-
 
 ## Azure Tchnologies used for Project
 ## Core Azure Services:
