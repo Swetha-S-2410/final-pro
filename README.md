@@ -25,7 +25,7 @@ Azure Blob Storage is utilized in our Healthy Cake and Juice Blog Store project 
 Azure Health Bot is leveraged in our Healthy Cake and Juice Blog Store project to enhance user interaction and provide personalized assistance. This AI-powered bot offers a range of functionalities that improve the overall user experience by delivering timely and relevant information. 
 
 ## Features and Functionalities:
-###Home Page
+### Home Page
 Hero Section: A visually appealing hero section with an attractive image of healthy cakes and juices, accompanied by a catchy tagline.
 Navigation Bar: Links to Home, About, Blog, Contact, and a search bar.
 Featured Products: Showcase a few featured cakes and juices with images and descriptions.
@@ -86,8 +86,8 @@ RESOURCES GROUP & RESOURCES :
 ![Screenshot 2024-05-28 192258](https://github.com/Swetha-S-2410/final-pro/assets/157030575/0ba2c712-0ee8-44ac-a6c1-e3ec1bf14f80)
 
 ### Tech Stack 💻
-Azure Hosting, Storage, Health Bot Service
-HTML
-CSS
-JavaScript
+. Azure Hosting, Storage, Health Bot Service
+. HTML
+. CSS
+. JavaScript
 
