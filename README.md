@@ -1,4 +1,4 @@
-#### Blog Store: for Healthy Cakes and Juice with Interactive AI Chatbot By Swetha S
+##### Blog Store: for Healthy Cakes and Juice with Interactive AI Chatbot By Swetha S
 
 Welcome to Our Healthy Cake and Juice Blog Store Project!
 
